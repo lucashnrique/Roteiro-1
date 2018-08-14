@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1533764069 source:d:\lucas\documents\programação\q5r1\main.cpp
+	<iostream>
+	"ControleDeGastos.h"
+
+1533762988 source:d:\lucas\documents\programação\q5r1\src\despesa.cpp
+	"Despesa.h"
+
+1533762988 d:\lucas\documents\programação\q5r1\include\despesa.h
+	<string>
+
+1533763307 source:d:\lucas\documents\programação\q5r1\src\controledegastos.cpp
+	"ControleDeGastos.h"
+
+1533762892 d:\lucas\documents\programação\q5r1\include\controledegastos.h
+	"Despesa.h"
+
