@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1514140574 source:d:\lucas\documents\programação\q4r1\main.cpp
+	<iostream>
+
+1533606290 source:d:\lucas\documents\programação\q4r1\src\pessoa.cpp
+	"Pessoa.h"
+
+1533607272 d:\lucas\documents\programação\q4r1\include\pessoa.h
+	<string>
+
